@@ -1,0 +1,10 @@
+numvertex,numtriangle
+v1x,v1y,v1z
+v2x,v2y,v2z
+v3x,v3y,v3z
+
+uv1x,uv1y
+uv2x,uv2y
+uv3x,uv3y
+
+triangle1v1,triangle1v2,triangle1v3
